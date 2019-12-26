@@ -64,6 +64,10 @@ public class Videojuego {
         return edad;
     }
 
+/*
+ * @return Edad mínima para jugar al videojuego
+ */
+    
     public void setEdad(String edad) {
         this.edad = edad;
     }
