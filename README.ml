@@ -8,3 +8,5 @@
 <p>Se añade javadoc al método getDesarrollador</p>
 <h2>Quinto commit</h2>
 <p>Se añade javadoc al método getEdad</p>
+<h2>Sexto commit</h2>
+<p>Se añade javadoc al método getPrecio</p>

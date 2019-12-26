@@ -76,6 +76,10 @@ public class Videojuego {
         return precio;
     }
 
+/*
+ * @return Precio del videojuego
+ */
+    
     public void setPrecio(float precio) {
         this.precio = precio;
     }
