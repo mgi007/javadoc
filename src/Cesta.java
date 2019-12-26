@@ -5,6 +5,9 @@
 
 import java.util.ArrayList;
 
+/*
+ * @param listaJuegos Es un array que contiene todos los juegos que tengamos en el cátalogo del programa
+ */ 
 
 public class Cesta {
     ArrayList<Videojuego> listaJuegos = new ArrayList<Videojuego>();

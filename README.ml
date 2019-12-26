@@ -10,3 +10,5 @@
 <p>Se añade javadoc al método getEdad</p>
 <h2>Sexto commit</h2>
 <p>Se añade javadoc al método getPrecio</p>
+<h2>Séptimo commit</h2>
+<p>Se añade comentario javadoc a la clase Cesta</p>
