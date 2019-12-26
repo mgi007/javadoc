@@ -27,6 +27,7 @@ public class Videojuego {
     public String getTitulo() {
         return titulo;
     }
+    
 /*
  * @return El título del videojuego
  */
@@ -39,6 +40,10 @@ public class Videojuego {
         return plataforma;
     }
 
+/*
+ * @return La plataforma en la que se ejecuta el videojuego
+ */
+    
     public void setPlataforma(String plataforma) {
         this.plataforma = plataforma;
     }
