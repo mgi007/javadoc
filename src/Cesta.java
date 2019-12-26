@@ -14,6 +14,11 @@ public class Cesta {
     public void agregarProducto(Videojuego v){
         listaJuegos.add(v);
     }
+    
+/*
+ * @return El método agregarProducto sirve para añadir productos a la cesta de compra del usuario
+ */   
+    
     public float calcularImporte(){
         float importe = 0;
         for (int i = 0; i <listaJuegos.size(); i++) {
