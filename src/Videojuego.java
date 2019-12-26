@@ -52,6 +52,10 @@ public class Videojuego {
         return desarrollador;
     }
 
+/*
+ * @return Nombre del desarrollador del videojuego
+ */
+    
     public void setDesarrollador(String desarrollador) {
         this.desarrollador = desarrollador;
     }
