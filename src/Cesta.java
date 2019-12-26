@@ -22,3 +22,7 @@ public class Cesta {
         return importe;
 }
 }
+
+/*
+ * @return El importe resultante de la suma de todos los juegos añadidos a la cesta
+ */

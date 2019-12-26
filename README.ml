@@ -12,3 +12,6 @@
 <p>Se añade javadoc al método getPrecio</p>
 <h2>Séptimo commit</h2>
 <p>Se añade comentario javadoc a la clase Cesta</p>
+<h2>Octavo commit</h2>
+<p>javadoc añadido al método calcularImporte</p>
+
