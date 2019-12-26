@@ -1,6 +1,7 @@
-/**
+/*
  * @author Miguel García Insua
  *@version 26/12/2019/A
+ *@see <a href = "https://github.com/mgi007/javadoc.git" /> Actividad Javadoc Miguel García DAM1 </a>
  */
 
 public class Ejecutador {
@@ -11,6 +12,10 @@ public class Ejecutador {
         Videojuego v3 = new Videojuego("Mortal Kombat XI", "XBOX-one", "NetherRealm Studios", "18", 56.95f);
         Videojuego v4 = new Videojuego("Fortnite", "Nintendo Swich", "Epic Games", "12", 36.95f);
 
+/*
+ * @return Cada objeto del tipo Videojuego que creamos será un videojuego más que tendremos en el católogo de nuestro programa
+ */   
+        
         Cesta c1 = new Cesta();
         c1.agregarProducto(v1);
         c1.agregarProducto(v2);
@@ -20,3 +25,4 @@ public class Ejecutador {
         System.out.println("Importe de la compra :" + importeCesta);
     }
 }
+
