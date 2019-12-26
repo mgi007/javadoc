@@ -1,4 +1,7 @@
-
+/**
+ * @author Miguel García Insua
+ *@version 26/12/2019/A
+ */
 
 public class Ejecutador {
 
